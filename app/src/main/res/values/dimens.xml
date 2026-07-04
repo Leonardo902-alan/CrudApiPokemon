@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="radius_sm">12dp</dimen>
+    <dimen name="radius_md">16dp</dimen>
+    <dimen name="radius_lg">22dp</dimen>
+    <dimen name="radius_xl">28dp</dimen>
+    <dimen name="radius_pill">999dp</dimen>
+
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_md">16dp</dimen>
+    <dimen name="spacing_lg">20dp</dimen>
+    <dimen name="spacing_xl">24dp</dimen>
+    <dimen name="spacing_xxl">32dp</dimen>
+
+    <dimen name="screen_horizontal">20dp</dimen>
+    <dimen name="toolbar_height">56dp</dimen>
+    <dimen name="list_item_height">72dp</dimen>
+    <dimen name="avatar_md">56dp</dimen>
+    <dimen name="avatar_lg">120dp</dimen>
+    <dimen name="avatar_xl">160dp</dimen>
+
+    <dimen name="text_large_title">34sp</dimen>
+    <dimen name="text_title1">28sp</dimen>
+    <dimen name="text_title2">22sp</dimen>
+    <dimen name="text_headline">17sp</dimen>
+    <dimen name="text_body">17sp</dimen>
+    <dimen name="text_subhead">15sp</dimen>
+    <dimen name="text_footnote">13sp</dimen>
+    <dimen name="text_caption">12sp</dimen>
+
+    <dimen name="elevation_none">0dp</dimen>
+    <dimen name="elevation_subtle">1dp</dimen>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pokédex CRUD</string>
+
+    <!-- Menú -->
+    <string name="titulo_menu">Pokédex</string>
+    <string name="subtitulo_menu">Explora, captura y organiza tu equipo Pokémon</string>
+    <string name="seccion_menu">Módulos</string>
+    <string name="seccion_info">Información</string>
+    <string name="seccion_editar">Personalizar</string>
+    <string name="menu_explorar">Explorar Pokémon</string>
+    <string name="menu_pokedex">Mi Pokédex</string>
+    <string name="desc_explorar">Busca Pokémon en la PokeAPI</string>
+    <string name="desc_pokedex">Administra tus Pokémon capturados</string>
+
+    <!-- Explorar -->
+    <string name="titulo_explorar">Explorar Pokémon</string>
+    <string name="hint_buscar">Buscar por nombre (ej: pikachu)</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="btn_cargar_mas">Cargar más</string>
+    <string name="lista_vacia_api">No se encontraron Pokémon</string>
+
+    <!-- Detalle -->
+    <string name="titulo_detalle">Detalle Pokémon</string>
+    <string name="capturar_pokemon">Capturar Pokémon</string>
+    <string name="ya_capturado">Ya capturado</string>
+    <string name="numero_pokemon">#%1$d</string>
+    <string name="tipos_label">Tipos: %1$s</string>
+    <string name="altura_label">Altura: %1$.1f m</string>
+    <string name="peso_label">Peso: %1$.1f kg</string>
+    <string name="habilidades_label">Habilidades: %1$s</string>
+    <string name="tipo_label">Tipo: %1$s</string>
+    <string name="apodo_label">Apodo: %1$s</string>
+
+    <!-- Mi Pokédex -->
+    <string name="titulo_mi_pokedex">Mi Pokédex</string>
+    <string name="lista_vacia_pokedex">No has capturado ningún Pokémon.\nExplora y captura tu primero.</string>
+    <string name="ir_explorar">Explorar Pokémon</string>
+    <string name="titulo_editar_pokemon">Editar Pokémon</string>
+    <string name="hint_apodo">Apodo (opcional)</string>
+    <string name="hint_notas">Notas (opcional)</string>
+
+    <!-- Botones -->
+    <string name="btn_editar">Editar</string>
+    <string name="btn_eliminar">Liberar</string>
+    <string name="btn_actualizar">Actualizar</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+
+    <!-- Mensajes -->
+    <string name="pokemon_capturado">¡Pokémon capturado!</string>
+    <string name="pokemon_actualizado">Pokémon actualizado correctamente</string>
+    <string name="pokemon_eliminado">Pokémon liberado correctamente</string>
+
+    <!-- Errores -->
+    <string name="error_api">Error al conectar con la PokeAPI. Verifica tu internet.</string>
+    <string name="error_pokemon_no_encontrado">Pokémon no encontrado</string>
+    <string name="error_duplicado_pokemon">Ya capturaste este Pokémon</string>
+    <string name="error_guardar_pokemon">Error al capturar el Pokémon</string>
+    <string name="error_actualizar_pokemon">Error al actualizar el Pokémon</string>
+    <string name="error_eliminar_pokemon">Error al liberar el Pokémon</string>
+    <string name="error_pokemon_local_no_encontrado">Pokémon no encontrado en tu Pokédex</string>
+
+    <!-- Diálogo -->
+    <string name="eliminar_titulo">Confirmar liberación</string>
+    <string name="eliminar_mensaje_pokemon">¿Está seguro de liberar este Pokémon?</string>
+</resources>

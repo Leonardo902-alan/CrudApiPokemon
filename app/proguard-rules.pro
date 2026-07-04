@@ -1,0 +1,1 @@
+# Reglas ProGuard para EstudiantesCRUD

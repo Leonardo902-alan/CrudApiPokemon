@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- iOS-inspired palette -->
+    <color name="primary">#007AFF</color>
+    <color name="primary_dark">#0056B3</color>
+    <color name="accent">#5856D6</color>
+    <color name="accent_dark">#3634A3</color>
+
+    <color name="background">#F2F2F7</color>
+    <color name="background_elevated">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="grouped_cell">#FFFFFF</color>
+
+    <color name="text_primary">#1C1C1E</color>
+    <color name="text_secondary">#8E8E93</color>
+    <color name="text_tertiary">#AEAEB2</color>
+
+    <color name="separator">#E5E5EA</color>
+    <color name="fill_secondary">#F2F2F7</color>
+    <color name="fill_tertiary">#E5E5EA</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="error">#FF3B30</color>
+    <color name="success">#34C759</color>
+    <color name="warning">#FF9500</color>
+
+    <color name="tipo_bg">#5856D6</color>
+    <color name="tipo_chip_bg">#EFEFF4</color>
+    <color name="tipo_chip_text">#5856D6</color>
+
+    <color name="ic_launcher_background">#007AFF</color>
+    <color name="overlay_scrim">#66000000</color>
+</resources>
